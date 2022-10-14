@@ -1,3 +1,11 @@
 # API-Rest-Logistica
-Api de entregas desenvolvida em Spring Boot.
-Algaworks
+Desenvolvimento de uma Api de entregas com Rest-Api.
+
+<b>Curso Algaworks</b>
+
+<h3>Recursos utilizados</h3>
+* Java 17
+* Spring Boot
+* MySql
+* Postman
+* Swagger
